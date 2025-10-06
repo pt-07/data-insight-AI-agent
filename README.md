@@ -1,6 +1,6 @@
 # Data Insight Agent
 
-AI-powered conversational agent targeted to e-commerce data analysis and visualization, providing answers for any (most) analysis questions.
+AI-powered conversational agent targeted to e-commerce data analysis and visualization, providing answers for (most) analysis questions.
 
 ## To Setup:
 1. Clone repo
