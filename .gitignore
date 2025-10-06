@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Sensitive Files
+.env
+credentials.json
+token.json
+*.db
+
+# Data Files
+*.csv
+*.xlsx
+data/
+
+# Output Files
+visualizations/
+*.png
+user_personas_output.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
